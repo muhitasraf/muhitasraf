@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: .java .php .js .c .ino
 - 🌱 I’m currently learning Vue.js, Laravel etc.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about C, Java, PHP, MYSQL.
 - 📫 How to reach me: <br>
   Email : muhitasraf.swe@gmail.com <br>
