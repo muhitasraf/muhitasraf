@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js, Laravel etc.
 - 💬 Ask me about C, Java, PHP, MYSQL.
 - 📫 How to reach me: <br>
-  Email : muhitasraf.swe@gmail.com <br>
-  Contact: +8801521436114
+  Email : muhitasraf@gmail.com <br>
+  Contact: +8801981357914
 
